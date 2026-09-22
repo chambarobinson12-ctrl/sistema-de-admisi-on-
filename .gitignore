@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+venv/
+.venv/
+
+# Archivos que suben los usuarios (documentos de postulantes, mallas): no van al repositorio
+media/
+
+# Respaldos temporales
+RESPALDO_*.txt
